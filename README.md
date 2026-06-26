@@ -31,7 +31,7 @@ Currently working on:
 ### Database
 
 - SQLite
-- PostgreSQL (learning)
+- PostgreSQL
 
 ### Tools
 
