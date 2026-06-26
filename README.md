@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Full-Stack Developer
 
-I'm passionate about building modern web applications using Python, Django and React.
+I'm passionate about building modern, scalable software and continuously expanding my skills in full-stack development.
 
 Currently working on:
 
