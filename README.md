@@ -2,74 +2,73 @@
 
 ### Computer Science Student | Full-Stack Developer
 
-I'm passionate about building modern, scalable software and continuously expanding my skills in full-stack development.
+I'm passionate about building modern full-stack web applications using React, Django, Python, and REST APIs.
 
-Currently working on:
+Currently focused on:
 
-- 🎓 Campus Hub
-- 🌐 Full Stack Development
-- 🚀 Improving my UI/UX skills
+* 🎓 Campus Hub
+* 🌐 Full-Stack Development
+* 🚀 Building scalable web applications
+* 📚 Continuously improving my software engineering skills
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 
-- React
-- JavaScript
-- HTML
-- CSS
-- Vite
+* React
+* JavaScript
+* HTML5
+* CSS3
+* Vite
 
 ### Backend
 
-- Python
-- Django
-- Django REST Framework
+* Python
+* Django
+* Django REST Framework
 
 ### Database
 
-- SQLite
-- PostgreSQL
+* SQLite
+* PostgreSQL (Learning)
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Windsurf
+* Git
+* GitHub
+* VS Code
+* Windsurf
 
 ---
 
-## Featured Project
+## 🚀 Featured Project
 
 ### Campus Hub
 
-A modern student networking platform.
+A modern student networking platform built with React and Django.
 
-Features:
+Features include:
 
-- Student Profiles
-- Directory
-- Connection Requests
-- Real-Time Messaging
-- Notifications
-- Responsive Design
+* User Authentication
+* Student Profiles
+* Student Directory
+* Connection Requests
+* Real-Time Messaging (Polling)
+* Edit & Delete Messages
+* Responsive Design
 
 Deployment coming soon.
 
 ---
 
-## Contact
+## 📫 Contact
 
-📧 nepthalema@gmail.com
+Email: [nepthalema@gmail.com](mailto:nepthalema@gmail.com)
 
-GitHub
-
-https://github.com/nepthalema-cloud
+GitHub: https://github.com/nepthalema-cloud
 
 ---
 
-Always learning.
-Always building.
+Always learning. Always building.
